@@ -1,1 +1,1 @@
-# cd17-Simple_Linear_Regression
+# cd17-Regression
